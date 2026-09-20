@@ -3,4 +3,4 @@
 
 ---
 
-- Define mnechanical an electical interfaces.
+- Define [mechanical an electical interfaces.](./dimension-comparison.tsv)

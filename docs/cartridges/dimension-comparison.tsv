@@ -1,0 +1,15 @@
+NAME	DEPTH	WIDTH	HEIGHT	TYPE	INTERFACE	SOURCE	NOTE
+PCMCIA	85,6mm	54mm	3-10,5mm	Expansion Slot	ISA	https://en.wikipedia.org/wiki/PC_Card#Form_factors	Legacy Interface for Laptops. Extensions at the end are permissible for connectors.
+ExpressCard/34	70mm	34mm	5mm	Expansion Slot	PCIe + USB	https://en.wikipedia.org/wiki/ExpressCard#Form_factors	Legacy Interface for Laptops, Successor to PCIMCIA, 70mm depth is designed to sit flush with a laptop case. Extensions are permissible.
+ExpressCard/54	70mm	54mm	5mm	Expansion Slot	PCIe + USB	https://en.wikipedia.org/wiki/ExpressCard#Form_factors	Wider variant in an L-Lshaped case. Same Connector as ExpressCard/34.
+GamePak	65,5mm	57mm	7,5mm	Game Cartridge	Z80 Bus	https://en.wikipedia.org/wiki/Game_Boy_Game_Pak	ROM Cartridge for the GameBoy. Sits flush with GameBoy & GameBoy Colour.
+GamePak Advanced	35mm	57mm	7,5mm	Game Cartridge	GBA Bus	https://en.wikipedia.org/wiki/Game_Boy_Game_Pak#Game_Boy_Advance_Game_Pak	Revised Version of the Cartridge, sits flush with all GameBoy Advance Models.
+ExpressCard 2.0	70mm	34-54mm	5mm	Expansion Slot	PCIe + USB	https://en.wikipedia.org/wiki/ExpressCard#ExpressCard_2.0	Identical to ExpressCard, but with PCIe 2.0 & USB 3.0 support
+XQD	38,5mm	29,8mm	3,8mm	Storage Media	PCIe	https://en.wikipedia.org/wiki/XQD_card	Successor to Compact Flash for professional cameras.
+CompactFlash	42mm	36mm	3,3mm	Storage Media	IDE	https://en.wikipedia.org/wiki/CompactFlash#Type_I_and_Type_II	A common storage media that provides IDE support.
+MicroDrive	42mm	36mm	5mm	Storage Media	IDE	https://en.wikipedia.org/wiki/Microdrive	A miniature HDD in a CompactFlash Type 2 Form Factor.
+CFast	42mm	36mm	3,3mm	Storage Media	SATA	https://en.wikipedia.org/wiki/CompactFlash#CFast	An incompatible cartridge that does use SATA and merely has the same external dimensions as the oridingal CF card.
+ID-1 Chipcard	85,6mm	53,98mm	0,762mm	Authentification	Serial	https://en.wikipedia.org/wiki/SIM_card#Formats	Full-Size Chipcard as used for ATMs.
+MiniPCIe	26,8-50,95mm	30mm	2-3,8mm	Expansion Slot	USB, PCIe, SATA, SIM	https://en.wikipedia.org/wiki/PCI_Express#PCI_Express_Mini_Card	Expansion Slot for Laptop WWAN, WiFi and SSDs.
+M.2	16-110mm	12-30mm	2mm-3,8mm	Expansion Slot	USB, PCIe, SATA, SIM	https://en.wikipedia.org/wiki/M.2#Form_factors_and_keying	Successor to MiniPCIe.
+SFP	56,5mm	13,4mm	8,5mm	Network Interface	GMII	https://en.wikipedia.org/wiki/Small_Form-factor_Pluggable#Mechanical_dimensions	Used to attach Ethernet Fiber Modules.
