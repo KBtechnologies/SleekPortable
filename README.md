@@ -76,7 +76,10 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
   - A discontinued, [tiny USB Keyboard](https://projects-raspberry.com/2022-cyberdeck-contest-the-folding-mini-deck/) originally marketed for use on the [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) for entering game cheats.
 - [violence.works VT-69 Terminal](http://violence.works)
   - A [stupid terminal](https://en.wikipedia.org/wiki/Computer_terminal) that is [portable and provides the ability to also host a Pi Zero (W)](https://www.youtube.com/watch?v=wYfpptgb6W8).
-- [Pagers](https://en.wikipedia.org/wiki/Two-way_pager) like the iconic [NTT Pocket Bell](https://www.youtube.com/watch?v=xbX0MYLEx5o&t=362s), [BlackBerry 950](https://en.wikipedia.org/wiki/BlackBerry_950), [RockSTAR Burst](https://www.groundcontrol.com/product/rockstar-burst) & [GroundControl RockSTAR](https://www.groundcontrol.com/product/rockstar-global-satellite-messaging-tracking/) [the latter ones using the [Iridium 9602 Module](https://www.iridium.com/products/iridium-9602-module).
+- [Pagers](https://en.wikipedia.org/wiki/Two-way_pager) like the iconic [NTT Pocket Bell](https://www.youtube.com/watch?v=xbX0MYLEx5o&t=362s), [BlackBerry 950](https://en.wikipedia.org/wiki/BlackBerry_950), [RockSTAR Burst](https://www.groundcontrol.com/product/rockstar-burst) & [GroundControl RockSTAR](https://www.groundcontrol.com/product/rockstar-global-satellite-messaging-tracking/) [the latter ones using the [Iridium 9602 Module](https://www.iridium.com/products/iridium-9602-module)].
 - Flip Phones like the iconic [Motorola RAZR](https://en.wikipedia.org/wiki/Motorola_Razr).
 - Marcin Plaza's [*upcycled foldable Phone*](https://www.youtube.com/watch?v=qy_9w_c2ub0) because it's cool.
+- [Iridium 9555](https://www.iridium.com/products/iridium-9555)
+  - Your [Chonky Brick Satellite Phone](https://www.youtube.com/watch?v=RjkNPvzCRKg) that only got beaten by the [Iridium 9575](https://www.youtube.com/watch?v=sZWN65NqNOc) &  [Iridium Extreme PTT](https://www.iridium.com/products/iridium-extreme-ptt).
+  - Designed to be rugged and just work globally!
 
