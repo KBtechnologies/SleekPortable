@@ -31,20 +31,26 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
 - MicroSD (Boot Storage)
 - USB (Additional Hardware)
   - Using the "Cartridge Slot" at the rear/underside for connectivity next to some ports.
-- 3,5mm TRRS (CTIA-Compliant) Headset Jack
+  - internal parts?
+    - Keyboard
+    - Trackpoint + buttons
+    - Hub to connect all of the external and internal ports
+- [3,5mm TRRS (CTIA-Compliant)](https://en.wikipedia.org/wiki/Phone_connector_(audio)#TRRS_standards) Headset Jack
+  - OMTP compatibility with passive adapters.
+  - Optional Switch for AV-Out?
 - [USB-C Power Delivery](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery) [at least 5V @ 3A max.] for charging.
   - Port at the underside for a dock
     - Hardware switch: Power/charging only or power + data (i.e. for a Dock similar to the GPI Case 2 and [Analogue Pocket](https://en.wikipedia.org/wiki/Analogue_Pocket)).
 - Nice to Haves:
   - 100Mbit/s Ethernet [via USB]
-    - [Power over Ethernet](https://en.wikipedia.org/wiki/Power_over_Ethernet#Two-_and_four-pair_Ethernet) as either a dock and or cartridge [similar to some Pi0 accessories](https://www.waveshare.com/product/iot-communication/wired-comm-converter/ethernet/poe-eth-usb-hub-hat.htm).
+    - [Power over Ethernet](https://en.wikipedia.org/wiki/Power_over_Ethernet#Two-_and_four-pair_Ethernet) as either a port on the dock and or cartridge [similar to some Pi0 accessories](https://www.waveshare.com/product/iot-communication/wired-comm-converter/ethernet/poe-eth-usb-hub-hat.htm).
   - Cartridge Slot
     - The design and pinout [is to be determined.](docs/cartridges/TODO.md)
       - Some comparisons are [noted down here.](docs/cartridges/cartridges-comparison.tsv)
 
 ####  It needs to make sense.
 - It needs to have useful features
-  - hot-swappable batteries
+  - hot-swappable [batteries](docs/battery/TODO.md)
     - it needs to have sufficient battery runtime anyway.
 - It needs to be affordable
   - If it's as expensive as a Laptop + Smartphone, then there's no reason to use it.
