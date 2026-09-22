@@ -7,4 +7,39 @@
 - Define total dimensions
   - Parts use
     - Parts dimensions
+      - Battery
+      - Display
+      - Keyboard
+      - Mainboard
+      - other internal parts
     - Parts connections
+      - Battery mount
+      - Board-to-Board Connectors
+      - Flex Cables
+    - Connectors
+      - Connector positions
+        - USB 2.0
+          - [4p4c connector](https://en.wikipedia.org/wiki/Modular_connector#4P4C) [(port)](https://www.amazon.de/dp/B0C3QNRGM9)
+        - Docking Station
+          - [magnetic 2x10 pogo pin connectors](https://de.aliexpress.com/item/1005004908174788.html)
+            - Can fit USB-C Power Delivery, Ethernet, USB 2.0 ...
+            - Allows for cheap, passive docks
+            - USB-C charging adapter included
+              - Safe breakoff instead of damages to the PCB!
+        - [USB-C](https://en.wikipedia.org/wiki/USB-C)
+          - Charging: Compliance with [EU Directive 2022/2380](https://eur-lex.europa.eu/eli/dir/2022/2380/oj/eng)
+        - RS-232
+          - [10p10c](https://en.wikipedia.org/wiki/Modular_connector#10P10C) aka. *"RJ-50"*
+        - Ethernet
+          - [8p8c](https://en.wikipedia.org/wiki/Modular_connector#8P8C) aka. RJ-45
+            - fitting a [SFP Port](https://en.wikipedia.org/wiki/Small_Form-factor_Pluggable#1_Gbit/s_SFP) likely isn't an option
+              - But would be nice!
+        - "Link Connector"
+          - [6p6c](https://en.wikipedia.org/wiki/Registered_jack#RJ25)
+            - [100Base-TX](https://en.wikipedia.org/wiki/Fast_Ethernet#Copper) (half-duplex)
+              - To be used with an ethernet switch
+                - or crossover direct cable.
+            - [RS-485](https://en.wikipedia.org/wiki/RS-485)
+              - or additional 5V power
+        - [IrDA](https://en.wikipedia.org/wiki/IrDA)
+          - [USB internal adapter](https://irdroid.eu/product/irdroid-usb-irda-transceiver-2/)
