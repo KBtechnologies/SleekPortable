@@ -12,6 +12,9 @@
       - Keyboard
       - Mainboard
       - other internal parts
+      - Microphone and/or Speaker (if possible?)
+          - 3,5mm TRRS Headset Jack
+          - CTIA pinout
     - Parts connections
       - Battery mount
       - Board-to-Board Connectors

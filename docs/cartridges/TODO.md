@@ -15,6 +15,7 @@
       - [Power Delivery Support](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery)?
   - 3,5mm TRRS Headset Jack [equivalent]
     - CTIA pinout
+      - For connecting WWAN modules and allow voice calling
   - Connector Selection
     - Choosing one of these connectors to save costs:
       - [Sub-D Connectors](https://en.wikipedia.org/wiki/D-subminiature)
