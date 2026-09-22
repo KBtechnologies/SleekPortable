@@ -6,7 +6,7 @@ W5BT4	Bluetooth+WiFi	USB	-	Realtek RTL8821CU Chip
 WiFi5	WiFi	USB	-	Realtek RTL8812BU Chip, Dual-Band
 GNSSA	GNSS	USB	-	uBlox7 Chip
 RTLSDR	SDR	USB	-	RTL2832U+R820T2 SDR
-9704IMT	GWAN	Serial	-	Iridium Certus 9704 Module
+9704IMT	GWAN	Serial	-	Iridium IMT 9704 Module
 9602SBD	GWAN	Serial	-	Iridium SBD 9602 Module
 9523PTT	GWAN	Serial	-	Iridium PTT 9523 Module
 YARDSDR	SDR	USB	-	A YARD Stick One in a different form factor.
