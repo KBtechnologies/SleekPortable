@@ -13,7 +13,7 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
 ##	Goal
 ###	Be compact
 ####  It needs to be portable as in "fitting into pockets"...
-- The maximum feasible size for jackets is 12cm overall depth and an ultrawide form factor (See VAIO P11Z), but that's not an option for Cargo Pants
+- The maximum feasible size for jackets is 12cm overall depth and an ultrawide form factor (See VAIO P11Z), but that's not an option besides Cargo Pants and deep-pocket Jackets.
 - The maximum feasible size for Pants is that of the GBA SP [with a bit of wiggle room in terms of depth] as it's pretty chonky...
 
 ####  The exact case is [to be determined.](docs/case/TODO.md) Some Comparisons have been [noted down here.](docs/case/TODO.md)
