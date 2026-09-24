@@ -8,3 +8,5 @@ CM108B  	USB Audio Adapter	USB 2.0	https://www.cmedia.com.tw/products/USB_AUDIO_
 CM6542  	USB Audio Adapter	USB 2.0	https://www.cmedia.com.tw/products/USB_AUDIO_CODEC/CM6542	A better USB Audio Interface that supports CTIA & OMTP pinout headsets on a single 3,5mm TRRS socket.
 LAN9514 	USB Ethernet + Hub	USB 2.0	https://www.microchip.com/en-us/product/LAN9514	A cheap 4-Port USB 2.0 Hub with 10/100 Mbit/s Ethernet
 RTL8152 	Ethernet NIC	USB 2.0	https://www.realtek.com/Product/Index?id=4079&cate_id=786	A cheap 10/100 Mbit/s Ethernet Chip, Wake-On-LAN & PXE support
+CH340C  	USB UART Adapter	USB 2.0	https://www.wch-ic.com/download/file?id=79	Used in a very cheap USB-> RS485 Adapter ( https://www.berrybase.de/usb-rs485-konverter ), up to 6 Mbit/s
+RP2040  	Microcontroller	USB 2.0	https://www.raspberrypi.com/products/rp2040/	Versatile, can be used for many different applications.
