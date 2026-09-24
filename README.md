@@ -61,6 +61,11 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
 - [GameBoy Advance SP](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP)
   - For being a compact handheld that feels great and just is super pocketable.
     - It's [dimensions & form factor](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#Technical_specifications) is the design inspiration
+- [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant) & early Smartphones
+  - [Nokia Communicator - series](https://en.wikipedia.org/wiki/Nokia_Communicator)
+  - [BlackBerry Curve](https://en.wikipedia.org/wiki/BlackBerry_Curve)
+  - [Palm Treo 600](https://en.wikipedia.org/wiki/Treo_600)
+  - [Cybiko](https://en.wikipedia.org/wiki/Cybiko), a [PDA aimed at Kids](https://www.youtube.com/watch?v=38VEBOseAzM) which used a [patented mesh networking technology](https://patents.google.com/patent/US20020122410A1) in the 915 MHz [ISM Band](https://en.wikipedia.org/wiki/ISM_radio_band#Frequency_allocations), predating [DASH7](https://en.wikipedia.org/wiki/DASH7), [LoRa](https://en.wikipedia.org/wiki/LoRa)([WAN](https://en.wikipedia.org/wiki/LoRaWAN)) & [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)/[MeshCore](https://en.wikipedia.org/wiki/MeshCore) for over a decade.
 - [Anbernic RG34XXSP](https://en.wikipedia.org/wiki/Anbernic_RG35XXSP)
   - Obviously a copy of the GBA SP's design, but with a more modern ARM SoC used to play various Retro Games from microSD cards.
 - [Retroflag GPi Case](https://retroflag.com/GPi-CASE.html) [(2)](https://retroflag.com/gpi_case_2.html), a popular case for Pi Zero W & CM4 W SBCs in the form factor of the original [GameBoy](https://en.wikipedia.org/wiki/Game_Boy).
