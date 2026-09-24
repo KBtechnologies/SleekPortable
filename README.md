@@ -81,4 +81,6 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
 - [Iridium 9555](https://www.iridium.com/products/iridium-9555)
   - Your [Chonky Brick Satellite Phone](https://www.youtube.com/watch?v=RjkNPvzCRKg) that only got beaten by the [Iridium 9575](https://www.youtube.com/watch?v=sZWN65NqNOc) &  [Iridium Extreme PTT](https://www.iridium.com/products/iridium-extreme-ptt).
   - Designed to be rugged and just work globally!
+- [Waveshare GamePi20](https://www.waveshare.com/GamePi20-Acce.htm)
+  - A compact case for the Raspberry Pi Zero (W) to turn it into a Handheld similar to the [GameBoy micro](https://en.wikipedia.org/wiki/Game_Boy_Micro).
 
