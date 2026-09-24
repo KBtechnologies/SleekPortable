@@ -23,3 +23,4 @@ ZED-F9P	GNSS Recv.	USB 2.0	https://www.waveshare.com/zed-f9p-gps-rtk-hat.htm	For
 PoE-ETH	PoE ETH NIC	USB 2.0	https://www.waveshare.com/wiki/PoE/ETH/USB_HUB_HAT	Allowing to power the SleekPortable over 12,5W (IEEE 802.3af) Ethernet
 7600G-H	WWAN	USB 2,0	https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/sim7600g-h-4g-hat-b.htm	4G/3G/2G Global Band WWAN Module with SMS & voice Calling Support.
 SX1262	LoRa	SPI	https://www.semtech.com/products/wireless-rf/lora-connect/sx1262	Global / Multi-Band LoRa Transciever IC ( https://cdn-reichelt.de/documents/datenblatt/A200/DS_SX1261-2_V1.2_DB-EN.pdf )
+RP2350	MCU Unit	USB 2.0	https://www.raspberrypi.com/products/rp2350/	Alternatively RP2040 (https://www.raspberrypi.com/products/rp2040/), With detachable breakout cable.
