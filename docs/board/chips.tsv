@@ -1,12 +1,12 @@
 NAME	TYPE	INTERFACE	URL	NOTE
 AX88772E	Ethernet NIC	USB 2.0	https://www.asix.com.tw/en/product/USBEthernet/High-Speed_USB_Ethernet/AX88772E	10/100 Mbit/s, Linux native CDC-NCM driver = driverless Plug & Play, Wake-on-LAN support
-MCP2120 	IrDA (SIR) Controller	UART	https://www.microchip.com/en-us/product/MCP2120	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
-CH341   	USB UART Adapter	USB 2.0	https://www.wch-ic.com/products/CH341.html	Used in the irdroid IrDA Transcievers ( hhttps://github.com/Irdroid/USB-Infrared-Transmitter-v3 ), also does RS-232 & RS-485 as well as Parallel Port.
-TFDU4100	IrDA Transciever	SIT	https://www.vishay.com/docs/81288/tfdu4101.pdf	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
-PIC18F2550	USB Infrared Adapter	USB 2.0	https://www.microchip.com/en-us/product/PIC18F2550	Used in irdroid Infrared Transciever Module ( https://irdroid.eu/product/usb-infrared-transceiver-kit/ ), supports 38kHz Infrared Remote Signals
 CM108B  	USB Audio Adapter	USB 2.0	https://www.cmedia.com.tw/products/USB_AUDIO_CODEC/CM108B	Cheap USB Audio Interface used in countless USB Adapters.
 CM6542  	USB Audio Adapter	USB 2.0	https://www.cmedia.com.tw/products/USB_AUDIO_CODEC/CM6542	A better USB Audio Interface that supports CTIA & OMTP pinout headsets on a single 3,5mm TRRS socket.
 LAN9514 	USB Ethernet + Hub	USB 2.0	https://www.microchip.com/en-us/product/LAN9514	A cheap 4-Port USB 2.0 Hub with 10/100 Mbit/s Ethernet
 RTL8152 	Ethernet NIC	USB 2.0	https://www.realtek.com/Product/Index?id=4079&cate_id=786	A cheap 10/100 Mbit/s Ethernet Chip, Wake-On-LAN & PXE support
-CH340C  	USB UART Adapter	USB 2.0	https://www.wch-ic.com/download/file?id=79	Used in a very cheap USB-> RS485 Adapter ( https://www.berrybase.de/usb-rs485-konverter ), up to 6 Mbit/s
 RP2040  	Microcontroller	USB 2.0	https://www.raspberrypi.com/products/rp2040/	Versatile, can be used for many different applications.
+CH340C  	USB UART Adapter	USB 2.0	https://www.wch-ic.com/download/file?id=79	Used in a very cheap USB-> RS485 Adapter ( https://www.berrybase.de/usb-rs485-konverter ), up to 6 Mbit/s
+CH341   	USB UART Adapter	USB 2.0	https://www.wch-ic.com/products/CH341.html	Used in the irdroid IrDA Transcievers ( hhttps://github.com/Irdroid/USB-Infrared-Transmitter-v3 ), also does RS-232 & RS-485 as well as Parallel Port.
+MCP2120 	IrDA (SIR) Controller	UART	https://www.microchip.com/en-us/product/MCP2120	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
+TFDU4100	IrDA Transciever	SIT	https://www.vishay.com/docs/81288/tfdu4101.pdf	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
+PIC18F2550	USB Infrared Adapter	USB 2.0	https://www.microchip.com/en-us/product/PIC18F2550	Used in irdroid Infrared Transciever Module ( https://irdroid.eu/product/usb-infrared-transceiver-kit/ ), supports 38kHz Infrared Remote Signals
