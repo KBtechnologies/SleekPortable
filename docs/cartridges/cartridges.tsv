@@ -1,11 +1,12 @@
-NAME	TYPE	INTERFACE	FILE	NOTE
-LTE4G	WWAN	USB	-	Sierra Wireless MC7700 MiniPCIe module for 3G & 4G data.
+NAME	TYPE	INTERFACE	LINK	NOTE
+LTE4G	WWAN	USB	-	Sierra Wireless MC7700 MiniPCIe (USB) module for 3G & 4G data.
 WiFi6	WiFi	USB	-	Realtek RTL8831BU Chip
 BT5.4	Bluetooth	USB	-	Realtek RTL8761BUE-CG Chip
 W5BT4	Bluetooth+WiFi	USB	-	Realtek RTL8821CU Chip
 WiFi5	WiFi	USB	-	Realtek RTL8812BU Chip, Dual-Band
 GNSSA	GNSS	USB	-	uBlox7 Chip
 RTLSDR	SDR	USB	-	RTL2832U+R820T2 SDR
+RTLSDRx	SDR	USB	-	RTL2832U+E4000 SDR
 9704IMT	GWAN	Serial	-	Iridium IMT 9704 Module
 9602SBD	GWAN	Serial	-	Iridium SBD 9602 Module
 9523PTT	GWAN	Serial	-	Iridium PTT 9523 Module
@@ -14,3 +15,11 @@ LORASTK	LoRa	SPI	-	SX1262 Chip
 USB-SSD	Storage	USB	-	A USB M.2 SSD Case
 SD+SATA	Interface	USB	-	USB & SATA Adapter
 M.2-ADA	Interface	USB	-	M.2 Adapter (B & M key supported)
+8723DU	Wifi+BT NIC	USB 2.0	https://www.realtek.com/Product/Index?id=611&cate_id=194&menu_id=291	2,4GHz 802.11 bgn + Bluetooth Low Energy, Wake-On-WLAN, Secure Simple Pairing
+8821AU	Wifi+BT NIC	USB 2.0	https://www.realtek.com/Product/Index?id=592&cate_id=194&menu_id=291	2,4 + 5GHz ac/abgn + Bluetooth 4.0
+8814AU	WiFi NIC	USB 3.0	https://www.realtek.com/Product/Index?id=574	2,5 + 5GHz, 802.11 ac/abgn, 4x4, 3 spatial streams MIMO
+RTL8153	SFP ETH NIC	USB 3.0	https://www.realtek.com/Product/Index?id=4078	For use in a Gigabit SFP NIC Module ( like https://www.startech.com/de-de/netzwerk-io/us1ga30sfp & https://products.digitus.com/de/Kabel-und-Peripherie/USB-Geraete-und-Zubehoer/USB-Netzwerkadapter-und-Kabel/USB-3-0-Gigabit-SFP-Netzwerkadapter.html )
+ZED-F9P	GNSS Recv.	USB 2.0	https://www.waveshare.com/zed-f9p-gps-rtk-hat.htm	For centimeter accurate positioning
+PoE-ETH	PoE ETH NIC	USB 2.0	https://www.waveshare.com/wiki/PoE/ETH/USB_HUB_HAT	Allowing to power the SleekPortable over 12,5W (IEEE 802.3af) Ethernet
+7600G-H	WWAN	USB 2,0	https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/sim7600g-h-4g-hat-b.htm	4G/3G/2G Global Band WWAN Module with SMS & voice Calling Support.
+SX1262	LoRa	SPI	https://www.semtech.com/products/wireless-rf/lora-connect/sx1262	Global / Multi-Band LoRa Transciever IC ( https://cdn-reichelt.de/documents/datenblatt/A200/DS_SX1261-2_V1.2_DB-EN.pdf )
