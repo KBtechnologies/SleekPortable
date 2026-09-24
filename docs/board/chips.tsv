@@ -10,3 +10,4 @@ CH341   	USB UART Adapter	USB 2.0	https://www.wch-ic.com/products/CH341.html	Use
 MCP2120 	IrDA (SIR) Controller	UART	https://www.microchip.com/en-us/product/MCP2120	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
 TFDU4100	IrDA Transciever	SIT	https://www.vishay.com/docs/81288/tfdu4101.pdf	Used in the irdroid IrDA Transcievers ( https://gist.github.com/Irdroid/a946e3ebd2a62fedf189fac4767b4508 )
 PIC18F2550	USB Infrared Adapter	USB 2.0	https://www.microchip.com/en-us/product/PIC18F2550	Used in irdroid Infrared Transciever Module ( https://irdroid.eu/product/usb-infrared-transceiver-kit/ ), supports 38kHz Infrared Remote Signals
+PL9823  	RGB LED	-	https://www.berrybase.de/digitale-pl9823-5mm-led-bgl.-ws2812-diffus	Single-wire programmable & adressable, Also known as NeoPixel & WS2812- Ideal as multi-function status LED!
