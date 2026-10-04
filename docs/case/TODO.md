@@ -1,5 +1,14 @@
 #	SleekPortable Case
-##	`TODO`
+##	`CASE TODO`
+
+---
+
+### Maximum Dimensions
+- GBA SP - esque
+  -  25mm thick max. (closed)
+  -  85mm depth max. (closed)
+  - 100mm width max.
+
 
 ---
 
