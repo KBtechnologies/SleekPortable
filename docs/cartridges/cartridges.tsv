@@ -22,5 +22,8 @@ RTL8153	SFP ETH NIC	USB 3.0	https://www.realtek.com/Product/Index?id=4078	For us
 ZED-F9P	GNSS Recv.	USB 2.0	https://www.waveshare.com/zed-f9p-gps-rtk-hat.htm	For centimeter accurate positioning
 PoE-ETH	PoE ETH NIC	USB 2.0	https://www.waveshare.com/wiki/PoE/ETH/USB_HUB_HAT	Allowing to power the SleekPortable over 12,5W (IEEE 802.3af) Ethernet
 7600G-H	WWAN	USB 2,0	https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-zero-2-w-cat/sim7600g-h-4g-hat-b.htm	4G/3G/2G Global Band WWAN Module with SMS & voice Calling Support.
-SX1262	LoRa	SPI	https://www.semtech.com/products/wireless-rf/lora-connect/sx1262	Global / Multi-Band LoRa Transciever IC ( https://cdn-reichelt.de/documents/datenblatt/A200/DS_SX1261-2_V1.2_DB-EN.pdf )
+SX1262	LoRa	SPI	https://www.semtech.com/products/wireless-rf/lora-connect/sx1262	Global / Multi-Band LoRa Transciever IC ( https://cdn-reichelt.de/documents/datenblatt/A200/DS_SX1261-2_V1.2_DB-EN.pdf ).
 RP2350	MCU Unit	USB 2.0	https://www.raspberrypi.com/products/rp2350/	Alternatively RP2040 (https://www.raspberrypi.com/products/rp2040/), With detachable breakout cable.
+SCR301	Chipcard Reader	USB 2.0	https://www.ftsafe.com/Products/Card_Reader/Contact/Specification	Common Chipcard-Cardreader, Available as module. SDK Available ( https://github.com/FeitianSmartcardReader/R301 ).
+R502-C9	Dual-Mode Reader	USB 2.0	https://www.ftsafe.com/Products/Card_Reader/Dual_Interface/Specification	Dual-Mode (RFC/RFID + Contact Chip) Smartcard Reader, Available as module. SDK Available ( https://github.com/FeitianSmartcardReader/R502_SDK_Latest ).
+551EGL	Global Band 5G Module	M.2 (USB 3.0	https://de.aliexpress.com/item/1005010628191082.html	Global Band 5G/4G/3G72G Module
