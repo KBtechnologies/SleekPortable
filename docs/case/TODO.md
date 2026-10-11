@@ -23,11 +23,17 @@
       - other internal parts
       - Microphone and/or Speaker (if possible?)
           - 3,5mm TRRS Headset Jack
-          - CTIA pinout
+            - CTIA pinout
     - Parts connections
       - Battery mount
+        - Standard cells (i.e. 18650/21700/...)
+        - two cells
+        - hot-swappable!
+        - Mini-Package to clip in?
+          - Dzus-Fasteners for secure mounting??
       - Board-to-Board Connectors
       - Flex Cables
+      - Pogo-Pins
     - Connectors
       - Connector positions
         - USB 2.0
@@ -52,6 +58,6 @@
               - To be used with an ethernet switch
                 - or crossover direct cable.
             - [RS-485](https://en.wikipedia.org/wiki/RS-485)
-              - or additional 5V power
+              - or additional 5V power, if not terminated with a resistor.
         - [IrDA](https://en.wikipedia.org/wiki/IrDA)
           - [USB internal adapter](https://irdroid.eu/product/irdroid-usb-irda-transceiver-2/)
