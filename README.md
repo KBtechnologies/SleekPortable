@@ -1,5 +1,8 @@
 #	SleekPortable
-###	A handheld UMPC designed for serious use
+##	A handheld UMPC designed for serious use
+
+
+### [Contributions are welcome!](./CONTRIBUTING.md)
 
 ---
 
@@ -15,6 +18,8 @@ The lack of portable computing options that ain't heavy laptops or anti-repair -
 ####  It needs to be portable as in "fitting into pockets"...
 - The maximum feasible size for jackets is 12cm overall depth and an ultrawide form factor (See VAIO P11Z), but that's not an option besides Cargo Pants and deep-pocket Jackets.
 - The maximum feasible size for Pants is that of the GBA SP [with a bit of wiggle room in terms of depth] as it's pretty chonky...
+
+A [Specification Sheet (Work in Progress!) can be found here.](docs/SPECS.md)
 
 ####  The exact case is [to be determined.](docs/case/TODO.md) Some Comparisons have been [noted down here.](docs/case/cases-comparsion.tsv)
 ###	Be useful
