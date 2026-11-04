@@ -46,8 +46,10 @@
               - Safe breakoff instead of damages to the PCB!
         - [USB-C](https://en.wikipedia.org/wiki/USB-C)
           - Charging: Compliance with [EU Directive 2022/2380](https://eur-lex.europa.eu/eli/dir/2022/2380/oj/eng)
-        - RS-232
+        - RS-232 (?)
           - [10p10c](https://en.wikipedia.org/wiki/Modular_connector#10P10C) aka. *"RJ-50"*
+        - RS-485 (?)
+          - [4p4c](https://en.wikipedia.org/wiki/Modular_connector) aka. *"RJ-10"* or 4p2c aka. *"RJ-9"*
         - Ethernet
           - [8p8c](https://en.wikipedia.org/wiki/Modular_connector#8P8C) aka. RJ-45
             - fitting a [SFP Port](https://en.wikipedia.org/wiki/Small_Form-factor_Pluggable#1_Gbit/s_SFP) likely isn't an option
