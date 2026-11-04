@@ -1,8 +1,13 @@
 TYPE	HEIGHT (mm)	WIDGT (mm)	THICKNESS (mm)	SOURCE	SPECS	NOTE
-LCD	-	-	-	https://de.aliexpress.com/item/1005004678509986.html	2,9in 2160x2160 HDMI screen	square screen
+LCD	-	-	-	https://de.aliexpress.com/item/1005013363620968.html	1,8in 1920x1080px HDMI screen	super tiny, clunky adaptors.
+LCD	-	-	-	https://de.aliexpress.com/item/1005011595106467.html	2,9in 1440x1440px HDMI screen	square screen
+LCD	-	-	-	https://de.aliexpress.com/item/1005004678509986.html	2,9in 2160x2160px HDMI screen	square screen
+LCD	-	-	-	https://de.aliexpress.com/item/1005010304432751.html	3,17in 1024x768px HDMI screen	4:3 aspect ratio.
 LCD	-	-	-	https://de.aliexpress.com/item/1005006855737290.html	3,5in 640x480px HDMI screen	Used in Ambernic RG35XXSP
 LCD	-	-	-	https://de.aliexpress.com/item/1005008593459804.html	3,5in 640x480px HDMI screen	Used in Ambernic RG35XXSP
+LCD	63,6	76,6	-	https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/3.5inch-hdmi-lcd-e.htm	3,5in 640x480px HDMI screen	Capacitive Touchscreen.
 AMOLED	76,6	78,95	1,43	https://de.aliexpress.com/item/1005006524341044.html	3,5in 1080x1200 HDMI screen	8:9 aspect ratio. Clunky Adapters.
+LCD	84	84	-	https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/4inch-hdmi-lcd-c.htm	4in 720x720px HDMI screen	Square format, with a HDMI board & Audio Out at the rear.
 LCD	-	-	-	https://de.aliexpress.com/item/1005009970710134.html	4in 720x720px HDMI screen	Square format, with a HDMI board.
 LCD	-	-	-	https://de.aliexpress.com/item/1005010001207565.html	4in 720x720px HDMI screen	Square format, with a HDMI board.
 LCD	-	-	-	https://de.aliexpress.com/item/1005009633305894.html	5in 800x480px HDMI screen	A bid wider than the Ambernic's screen
