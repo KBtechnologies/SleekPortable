@@ -77,6 +77,8 @@ A [Specification Sheet (Work in Progress!) can be found here.](docs/SPECS.md)
     - It's quite heavy and expensive and not really "pocket-able"...
       - So clearly not competing in form factor.
   - [Pandora](https://en.wikipedia.org/wiki/Pandora_(computer))
+  - [GP2X](https://en.wikipedia.org/wiki/GP2X)
+  - [Dingoo](https://en.wikipedia.org/wiki/Dingoo)
 - [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant) & early Smartphones
   - [Nokia Communicator - series](https://en.wikipedia.org/wiki/Nokia_Communicator)
   - [BlackBerry Curve](https://en.wikipedia.org/wiki/BlackBerry_Curve)
@@ -87,6 +89,7 @@ A [Specification Sheet (Work in Progress!) can be found here.](docs/SPECS.md)
   - [Sony VAIO P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
     - For showcasing what a [Netbook](https://en.wikipedia.org/wiki/Netbook) can do if budget isn't holding it down.
       - Unfortunately it's [garbage iGPU](https://en.wikipedia.org/wiki/Intel_GMA#PowerVR_GPU_series) made it age *worse* than the [original Eee PC](https://en.wikipedia.org/wiki/Asus_Eee_PC#Eee_700_series)
+  - [Psion netBook](https://en.wikipedia.org/wiki/Psion_netBook)
 - Peripherals
   - [solder.party KeebDeck](https://www.solder.party/keeb/)
     - A tiny, [opensource](https://www.solder.party/docs/keebdeck/) Thumb Keyboard inspired by the [Blackberry Bold 9700](https://en.wikipedia.org/wiki/BlackBerry_Bold_9700) keyboard and it's diminishing stockpiles of replacements.
