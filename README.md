@@ -93,4 +93,8 @@ A [Specification Sheet (Work in Progress!) can be found here.](docs/SPECS.md)
   - Designed to be rugged and just work globally!
 - [Waveshare GamePi20](https://www.waveshare.com/GamePi20-Acce.htm)
   - A compact case for the Raspberry Pi Zero (W) to turn it into a Handheld similar to the [GameBoy micro](https://en.wikipedia.org/wiki/Game_Boy_Micro).
+- [Techno Pocket](https://www.tecno-mobile.com/accessories/product-detail/product/pocket-go/)
+  - A [very compact gaming handheld](https://www.youtube.com/watch?v=m7Lvhcp4rA4) with modern Gaming Laptop hardware inside.
+  - It's quite heavy and expensive and not really "pocket-able"...
+    - So clearly not competing in form factor.
 
