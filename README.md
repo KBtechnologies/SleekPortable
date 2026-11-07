@@ -63,38 +63,44 @@ A [Specification Sheet (Work in Progress!) can be found here.](docs/SPECS.md)
 
 ##	Acknowledgements
 ####  This project is inspired by various devices beloved by many.
-- [GameBoy Advance SP](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP)
-  - For being a compact handheld that feels great and just is super pocketable.
-    - It's [dimensions & form factor](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#Technical_specifications) is the design inspiration
+- Gaming Handhelds
+  - [GameBoy Advance SP](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP)
+    - For being a compact handheld that feels great and just is super pocketable.
+      - It's [dimensions & form factor](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#Technical_specifications) is the design inspiration
+  - [Anbernic RG34XXSP](https://en.wikipedia.org/wiki/Anbernic_RG35XXSP)
+    - Obviously a copy of the GBA SP's design, but with a more modern ARM SoC used to play various Retro Games from microSD cards.
+  - [Retroflag GPi Case](https://retroflag.com/GPi-CASE.html) [(2)](https://retroflag.com/gpi_case_2.html), a popular case for Pi Zero W & CM4 W SBCs in the form factor of the original [GameBoy](https://en.wikipedia.org/wiki/Game_Boy).
+  - [Waveshare GamePi20](https://www.waveshare.com/GamePi20-Acce.htm)
+    - A compact case for the Raspberry Pi Zero (W) to turn it into a Handheld similar to the [GameBoy micro](https://en.wikipedia.org/wiki/Game_Boy_Micro).
+  - [Techno Pocket](https://www.tecno-mobile.com/accessories/product-detail/product/pocket-go/)
+    - A [very compact gaming handheld](https://www.youtube.com/watch?v=m7Lvhcp4rA4) with modern Gaming Laptop hardware inside.
+    - It's quite heavy and expensive and not really "pocket-able"...
+      - So clearly not competing in form factor.
+  - [Pandora](https://en.wikipedia.org/wiki/Pandora_(computer))
 - [PDAs](https://en.wikipedia.org/wiki/Personal_digital_assistant) & early Smartphones
   - [Nokia Communicator - series](https://en.wikipedia.org/wiki/Nokia_Communicator)
   - [BlackBerry Curve](https://en.wikipedia.org/wiki/BlackBerry_Curve)
   - [Palm Treo 600](https://en.wikipedia.org/wiki/Treo_600)
   - [Cybiko](https://en.wikipedia.org/wiki/Cybiko), a [PDA aimed at Kids](https://www.youtube.com/watch?v=38VEBOseAzM) which used a [patented mesh networking technology](https://patents.google.com/patent/US20020122410A1) in the 915 MHz [ISM Band](https://en.wikipedia.org/wiki/ISM_radio_band#Frequency_allocations), predating [DASH7](https://en.wikipedia.org/wiki/DASH7), [LoRa](https://en.wikipedia.org/wiki/LoRa)([WAN](https://en.wikipedia.org/wiki/LoRaWAN)) & [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)/[MeshCore](https://en.wikipedia.org/wiki/MeshCore) for over a decade.
-- [Anbernic RG34XXSP](https://en.wikipedia.org/wiki/Anbernic_RG35XXSP)
-  - Obviously a copy of the GBA SP's design, but with a more modern ARM SoC used to play various Retro Games from microSD cards.
-- [Retroflag GPi Case](https://retroflag.com/GPi-CASE.html) [(2)](https://retroflag.com/gpi_case_2.html), a popular case for Pi Zero W & CM4 W SBCs in the form factor of the original [GameBoy](https://en.wikipedia.org/wiki/Game_Boy).
-- [Sony VAIO P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
-  - For showcasing what a [Netbook](https://en.wikipedia.org/wiki/Netbook) can do if budget isn't holding it down.
-    - Unfortunately it's [garbage iGPU](https://en.wikipedia.org/wiki/Intel_GMA#PowerVR_GPU_series) made it age *worse* than the [original Eee PC](https://en.wikipedia.org/wiki/Asus_Eee_PC#Eee_700_series)
-- [solder.party KeebDeck](https://www.solder.party/keeb/)
-  - A tiny, [opensource](https://www.solder.party/docs/keebdeck/) Thumb Keyboard inspired by the [Blackberry Bold 9700](https://en.wikipedia.org/wiki/BlackBerry_Bold_9700) keyboard and it's diminishing stockpiles of replacements.
-- [Xbox 360 Chatpad](https://en.wikipedia.org/wiki/List_of_Xbox_360_accessories#Messenger_Kit)
-  - Another tiny Keyboard used mostly for Text Chatting on Xbox Live and typing in Text on the Xbox 360 instead of the on-screen keyboard.
-- dreamGEAR MiniKey
-  - A discontinued, [tiny USB Keyboard](https://projects-raspberry.com/2022-cyberdeck-contest-the-folding-mini-deck/) originally marketed for use on the [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) for entering game cheats.
-- [violence.works VT-69 Terminal](http://violence.works)
-  - A [stupid terminal](https://en.wikipedia.org/wiki/Computer_terminal) that is [portable and provides the ability to also host a Pi Zero (W)](https://www.youtube.com/watch?v=wYfpptgb6W8).
-- [Pagers](https://en.wikipedia.org/wiki/Two-way_pager) like the iconic [NTT Pocket Bell](https://www.youtube.com/watch?v=xbX0MYLEx5o&t=362s), [BlackBerry 950](https://en.wikipedia.org/wiki/BlackBerry_950), [RockSTAR Burst](https://www.groundcontrol.com/product/rockstar-burst) & [GroundControl RockSTAR](https://www.groundcontrol.com/product/rockstar-global-satellite-messaging-tracking/) [the latter ones using the [Iridium 9602 Module](https://www.iridium.com/products/iridium-9602-module)].
-- Flip Phones like the iconic [Motorola RAZR](https://en.wikipedia.org/wiki/Motorola_Razr).
-- Marcin Plaza's [*upcycled foldable Phone*](https://www.youtube.com/watch?v=qy_9w_c2ub0) because it's cool.
-- [Iridium 9555](https://www.iridium.com/products/iridium-9555)
-  - Your [Chonky Brick Satellite Phone](https://www.youtube.com/watch?v=RjkNPvzCRKg) that only got beaten by the [Iridium 9575](https://www.youtube.com/watch?v=sZWN65NqNOc) &  [Iridium Extreme PTT](https://www.iridium.com/products/iridium-extreme-ptt).
-  - Designed to be rugged and just work globally!
-- [Waveshare GamePi20](https://www.waveshare.com/GamePi20-Acce.htm)
-  - A compact case for the Raspberry Pi Zero (W) to turn it into a Handheld similar to the [GameBoy micro](https://en.wikipedia.org/wiki/Game_Boy_Micro).
-- [Techno Pocket](https://www.tecno-mobile.com/accessories/product-detail/product/pocket-go/)
-  - A [very compact gaming handheld](https://www.youtube.com/watch?v=m7Lvhcp4rA4) with modern Gaming Laptop hardware inside.
-  - It's quite heavy and expensive and not really "pocket-able"...
-    - So clearly not competing in form factor.
+  - [Sony mylo](https://en.wikipedia.org/wiki/Mylo_(Sony))
+- Netbooks
+  - [Sony VAIO P](https://en.wikipedia.org/wiki/Sony_Vaio_P_series)
+    - For showcasing what a [Netbook](https://en.wikipedia.org/wiki/Netbook) can do if budget isn't holding it down.
+      - Unfortunately it's [garbage iGPU](https://en.wikipedia.org/wiki/Intel_GMA#PowerVR_GPU_series) made it age *worse* than the [original Eee PC](https://en.wikipedia.org/wiki/Asus_Eee_PC#Eee_700_series)
+- Peripherals
+  - [solder.party KeebDeck](https://www.solder.party/keeb/)
+    - A tiny, [opensource](https://www.solder.party/docs/keebdeck/) Thumb Keyboard inspired by the [Blackberry Bold 9700](https://en.wikipedia.org/wiki/BlackBerry_Bold_9700) keyboard and it's diminishing stockpiles of replacements.
+  - [Xbox 360 Chatpad](https://en.wikipedia.org/wiki/List_of_Xbox_360_accessories#Messenger_Kit)
+    - Another tiny Keyboard used mostly for Text Chatting on Xbox Live and typing in Text on the Xbox 360 instead of the on-screen keyboard.
+  - dreamGEAR MiniKey
+    - A discontinued, [tiny USB Keyboard](https://projects-raspberry.com/2022-cyberdeck-contest-the-folding-mini-deck/) originally marketed for use on the [PlayStation 2](https://en.wikipedia.org/wiki/PlayStation_2) for entering game cheats.
+- Others
+  - [violence.works VT-69 Terminal](http://violence.works)
+    - A [stupid terminal](https://en.wikipedia.org/wiki/Computer_terminal) that is [portable and provides the ability to also host a Pi Zero (W)](https://www.youtube.com/watch?v=wYfpptgb6W8).
+  - [Pagers](https://en.wikipedia.org/wiki/Two-way_pager) like the iconic [NTT Pocket Bell](https://www.youtube.com/watch?v=xbX0MYLEx5o&t=362s), [BlackBerry 950](https://en.wikipedia.org/wiki/BlackBerry_950), [RockSTAR Burst](https://www.groundcontrol.com/product/rockstar-burst) & [GroundControl RockSTAR](https://www.groundcontrol.com/product/rockstar-global-satellite-messaging-tracking/) [the latter ones using the [Iridium 9602 Module](https://www.iridium.com/products/iridium-9602-module)].
+  - Flip Phones like the iconic [Motorola RAZR](https://en.wikipedia.org/wiki/Motorola_Razr).
+  - Marcin Plaza's [*upcycled foldable Phone*](https://www.youtube.com/watch?v=qy_9w_c2ub0) because it's cool.
+  - [Iridium 9555](https://www.iridium.com/products/iridium-9555)
+    - Your [Chonky Brick Satellite Phone](https://www.youtube.com/watch?v=RjkNPvzCRKg) that only got beaten by the [Iridium 9575](https://www.youtube.com/watch?v=sZWN65NqNOc) &  [Iridium Extreme PTT](https://www.iridium.com/products/iridium-extreme-ptt).
+    - Designed to be rugged and just work globally!
 
