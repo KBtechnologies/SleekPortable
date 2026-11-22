@@ -5,7 +5,7 @@ A handheld UMPC designed for serious use
 
 ---
 
-### Board Layout
+### Data Lines
 
 ```
 [Keyboard]   [Trackpoint] <--- [Mouse Buttons] [PoE Extractor - 5V DC] <---> [PoE-Capable Ethernet Port]
